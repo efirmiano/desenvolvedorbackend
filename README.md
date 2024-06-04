@@ -4,11 +4,11 @@
 3) Navegar até a pasta onde foi salvo o programa "Ex: C:\user\Downloads"
 4) Executar o seguinte comando "java -jar desenvolvedorbackendjava-0.0.1-SNAPSHOT.jar", minimizar o CMD
 5) Abrir o Postman e realizar as requisições de POST/GET/UPDATE/DELETE conforme descrito a seguir:
-	5.1) Cadastrar um novo beneficiario URL: http://localhost:8080/cadastrarbeneficiarios
-	5.2) Atualizar beneficiario cadastrado URL: http: //localhost:8080/atualizarbeneficiarios
-	5.3) Consultar beneficiario cadastrado URL: http://localhost:8080/buscarbeneficiarios
-	5.4) Consultar documento cadastrado URL: http://localhost:8080/buscardocumento
-	5.5) Deletar beneficiario cadastrado URL: http://localhost:8080/deletebeneficiarios
+	5.1. Cadastrar um novo beneficiario URL: http://localhost:8080/cadastrarbeneficiarios
+	5.2. Atualizar beneficiario cadastrado URL: http: //localhost:8080/atualizarbeneficiarios
+	5.3. Consultar beneficiario cadastrado URL: http://localhost:8080/buscarbeneficiarios
+	5.4. Consultar documento cadastrado URL: http://localhost:8080/buscardocumento
+	5.5. Deletar beneficiario cadastrado URL: http://localhost:8080/deletebeneficiarios
 6) Para cadastrar um novo usuario precisa enviar(nome,telefone,dataNascimento,tipoDocumento e descricao)
 7) Para atualizar um cadastro precisa enviar (id ,nome,telefone,dataNascimento)
 8) Para Consultar um beneficiario cadastrado precisa enviar (id)
