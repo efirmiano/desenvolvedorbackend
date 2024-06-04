@@ -1,5 +1,5 @@
 # desenvolvedor Java BackEnd
-1) Fazer o Download do arquivo desenvolvedorbackendjava-0.0.1-SNAPSHOT.jar
+1) Fazer o Download do arquivo desenvolvedorbackendjava-0.0.1-SNAPSHOT.zip no diretorio "extras/" e o descompactar
 2) Abrir o prompt de comando
 3) Navegar até a pasta onde foi salvo o programa "Ex: C:\user\Downloads"
 4) Executar o seguinte comando "java -jar desenvolvedorbackendjava-0.0.1-SNAPSHOT.jar", minimizar o CMD
@@ -15,7 +15,7 @@
 9) Para consultar o documento de um beneficiario cadastrado precisa enviar (id)	
 10) Para Deletar um beneficiario precisa enviar (id)
 
-Para qualquer duvida estou a disposição, segue junto algumas imagens para ilustrar o uso da aplicação com o Postman.
+Para qualquer duvida estou a disposição, segue junto algumas imagens para ilustrar o uso da aplicação com o Postman dentro do diretorio "extras/".
 
 Ponto de atenção: Aplicação está parametrizada para receber form-data no corpo de requisições. Caso utilize Params vai apresentar erro.
 
